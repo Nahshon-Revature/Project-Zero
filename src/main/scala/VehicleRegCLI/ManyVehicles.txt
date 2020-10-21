@@ -1,0 +1,10 @@
+aaa1111,black,honda,accord,2002,jonah donut
+bbb2222,blue,nissan,altima,2013,jonah donut
+ccc3333,brown,toyota,camry,2004,jonah donut
+ddd4444,green,hyundai,sonata,2018,jonah donut
+eee5555,magenta,lincoln,town car,2009,jonah donut
+fff6666,orange,dodge,caravan,2007,jonah donut
+ggg7777,pink,chevrolet,suburban,2012,jonah donut
+hhh8888,purple,hummer,null,2005,jonah donut
+iii9999,white,volkswagen,jetta,1619,jonah donut
+jjj0000,yellow,range rover,null,1619,jonah donut
